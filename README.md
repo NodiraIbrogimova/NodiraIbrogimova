@@ -18,5 +18,5 @@
 - 😄 Pronouns: Ms.
 - ⚡ Fun fact: I find myself reading random things while trying to learn and practice totally different things. 
 
-![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamPearl&layout=compact&theme=gotham&count_private=true)
+![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=NodiraIbrogimova&layout=compact&theme=gotham&count_private=true)
 
