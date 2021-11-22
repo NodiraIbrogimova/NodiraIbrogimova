@@ -10,7 +10,7 @@
 ![My Profile Overview](https://github-readme-stats.vercel.app/api?username=NodiraIbrogimova&show_icons=true&theme=blue-green&count_private=true)
 
 - 🔭 I’m currently working on studying and implementing early-diagnosis tools
-- 🌱 I’m currently learning Typhoid Fever and optimizing diagnosis
+- 🌱 I’m currently learning Typhoid Fever and optimizing diagnosis techniques
 - 👯 I’m looking to collaborate on optimization of ML algorithms for an accurate prediction of the Typhoid Fever
 - 🤔 I’m looking for help with good book recommendations :) 
 - 💬 Ask me about science
