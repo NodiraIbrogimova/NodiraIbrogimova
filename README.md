@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with good book recommendations :) 
 - 💬 Ask me about science
 - 📫 How to reach me: email
-- 😄 Pronouns: Ms.
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I find myself reading random things while trying to learn and practice totally different things. 
 
 ![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=NodiraIbrogimova&layout=compact&theme=gotham&count_private=true)
