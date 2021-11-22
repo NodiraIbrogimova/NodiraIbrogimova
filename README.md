@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on optimization of ML algorithms for an accurate prediction of the Typhoid Fever
 - 🤔 I’m looking for help with good book recommendations :) 
 - 💬 Ask me about science
-- 📫 How to reach me: My gmail
+- 📫 How to reach me: email
 - 😄 Pronouns: Ms.
 - ⚡ Fun fact: I find myself reading random things while trying to learn and practice totally different things. 
 
