@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, my name is Nodira! 👋
 
-<!--
-**NodiraIbrogimova/NodiraIbrogimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/nodira-ibrogimova/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=blue)](https://twitter.com/NodiraDeveloper)
+[![DockerHub Badge](https://badgen.net/badge/DockerHub/Profile/blue?icon=docker)](https://hub.docker.com/u/nodira)
+[![G-Mail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto://nodira.ibrogimova@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white&color=blue)](https://www.nodirabegim.com/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&color=black)](https://medium.com/@nodira_ibragimova/)
 
-Here are some ideas to get you started:
+![My Profile Overview](https://github-readme-stats.vercel.app/api?username=NodiraIbrogimova&show_icons=true&theme=blue-green&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on studying and implementing early-diagnosis tools
+- 🌱 I’m currently learning Typhoid Fever and optimizing diagnosis
+- 👯 I’m looking to collaborate on optimization of ML algorithms for an accurate prediction of the Typhoid Fever
+- 🤔 I’m looking for help with good book recommendations :) 
+- 💬 Ask me about science
+- 📫 How to reach me: My gmail
+- 😄 Pronouns: Ms.
+- ⚡ Fun fact: I find myself reading random things while trying to learn and practice totally different things. 
+
+![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamPearl&layout=compact&theme=gotham&count_private=true)
+
