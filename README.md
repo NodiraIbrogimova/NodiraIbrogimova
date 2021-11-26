@@ -9,11 +9,11 @@
 
 ![My Profile Overview](https://github-readme-stats.vercel.app/api?username=NodiraIbrogimova&show_icons=true&theme=blue-green&count_private=true)
 
-- 🔭 I’m currently working on studying and implementing early-diagnosis tools
-- 🌱 I’m currently learning Typhoid Fever and optimizing diagnosis techniques
-- 👯 I’m looking to collaborate on optimization of ML algorithms for an accurate prediction of the Typhoid Fever
+- 🔭 I’m currently working on the reasearch for the conventional methods of diagnosing Typhoid Fever
+- 🌱 I’m currently learning signs and symptoms of Typhoid Fever
+- 👯 I’m looking to collaborate on optimization of the conventional methods with Machine Learning and methods to collect real data for an accurate prediction of the Typhoid Fever
 - 🤔 I’m looking for help with good book recommendations :) 
-- 💬 Ask me about science
+- 💬 Ask me about Science and Healthcare
 - 📫 How to reach me: email
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I find myself reading random things while trying to learn and practice totally different things. 
